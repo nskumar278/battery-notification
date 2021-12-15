@@ -21,3 +21,9 @@ Steps to Setup:
 5. pip install playsound
 6. Enter command in terminal: systemctl enable battery-notification
 7. Enter command in terminal: reboot or systemctl start battery-notification
+
+If Failed: Install following
+1. apt install python3.8-dev
+2. apt install libgirepository1.0-dev
+3. pip3 install pygobject
+4. systemctl start battery-notification
