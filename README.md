@@ -1,8 +1,8 @@
 # Battery Notification Service
-Author: nskumar278@gmail.com
-Date created: 15/12/2021
-Date last modified: 15/12/2021
-Python Version: 3.8.10
+Author: nskumar278@gmail.com  
+Date created: 15/12/2021  
+Date last modified: 15/12/2021  
+Python Version: 3.8.10  
 
 Description: 
 Battery Notification for Linux Systems. 
