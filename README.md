@@ -17,4 +17,5 @@ In case of battery low, it notifies 10 times in a row after every 5 minutes (Pow
 Steps to Setup:
 1. Copy battery-notification.py to /usr/bin
 2. Copy battery-notification.service to /lib/systemd/system
-3. systemctl enable battery-notification
+3. Enter command in terminal: systemctl enable battery-notification
+4. Enter command in terminal: reboot or systemctl start battery-notification
